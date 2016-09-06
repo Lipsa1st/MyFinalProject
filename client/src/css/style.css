@@ -1,0 +1,11 @@
+#myForm{
+    width: 500px;
+}
+
+#myTable{
+    width: 500px;
+    align: center;
+}
+#FormBorder{
+    outline: 1px solid orange;
+}
